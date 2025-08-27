@@ -1,0 +1,6 @@
+Django==4.2.11
+djangorestframework==3.16.1
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.7.0
+drf-spectacular==0.28.0
+Pillow==10.0.0
